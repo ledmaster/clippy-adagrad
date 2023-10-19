@@ -1,0 +1,3 @@
+[submodule "Multitask-Recommendation-Library"]
+	path = Multitask-Recommendation-Library
+	url = https://github.com/easezyc/Multitask-Recommendation-Library.git

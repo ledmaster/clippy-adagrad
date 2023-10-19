@@ -6,9 +6,9 @@ Clippy is a method developed by Google to address the training instability probl
 
 According to the paper:
 
-"Clippy offers larger gains when the model is more complex and trained with a larger learning rate."
+*"Clippy offers larger gains when the model is more complex and trained with a larger learning rate."*
 
-"It has shown significant improvements on training stability in multiple ranking models for YouTube recommendations and is productionized in some large and complex models."
+*"It has shown significant improvements on training stability in multiple ranking models for YouTube recommendations and is productionized in some large and complex models."*
 
 ## Requirements
 

@@ -46,3 +46,5 @@ python test.py
 ## License
 
 This project is licensed under the MIT License.
+
+Find me at [Forecastegy](https://forecastegy.com).
